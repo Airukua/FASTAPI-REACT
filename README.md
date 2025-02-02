@@ -32,8 +32,8 @@ This project demonstrates how to build a simple login dashboard home using **Fas
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/fastapi-react-tailwind-dashboard.git
-cd fastapi-react-tailwind-dashboard
+git clone https://github.com/yourusername/fastapi-react-tailwind-dashboard.git](https://github.com/Airukua/FASTAPI-REACT.git
+cd fullstack_simple
 ```
 
 ### 2. Backend Setup (FastAPI)
